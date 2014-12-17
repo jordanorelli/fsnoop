@@ -2,7 +2,8 @@
 
 fsnoop snoops on your files
 
-ran on its own with no arguments, fsnoop will report all file modification events.
+ran on its own with no arguments, fsnoop will report all file modification
+events in the current directory.
 
 here's a sample session run from `/tmp/snoop`.  Lines that start with `#` were
 run in a separate shell:
